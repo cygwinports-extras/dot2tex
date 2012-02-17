@@ -1,0 +1,5 @@
+inherit distutils
+
+
+HOMEPAGE="http://www.fauskes.net/code/dot2tex/"
+SRC_URI="http://dot2tex.googlecode.com/files/${P}.tar.gz"
